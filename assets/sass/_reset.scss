@@ -19,10 +19,3 @@ img {
 ul {
   list-style: none;
 }
-
-body {
-  background-color: #faf6ed;
-  color: #222222;
-  display: grid;
-  grid-template-columns: 1fr 120px minmax(18.75rem, 50rem) 1fr;
-}
